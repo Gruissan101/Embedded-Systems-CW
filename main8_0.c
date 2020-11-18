@@ -381,7 +381,7 @@ void rst_drive(void){
 	 drive_led1=0;
 	 drive_led2=0;
 	 drive_led3=0;
-	 drive_led4=0e;
+	 drive_led4=0;
 	 }
 //////////////////////Valve Check///////////////////////////
 void valve_check(void){
